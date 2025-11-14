@@ -1,2 +1,2 @@
 # hackathons_project
-This repo is created gen ad hackathon
+This repo is created for gen ai hackathon
